@@ -1,0 +1,26 @@
+﻿.LoginMinBox{position: fixed; top: 10px; right: 0px; height: 35px; color: #fff; padding: 10px 30px 0px; background-size: 105%;z-index:999999999;width:auto;font-size:14px;transition:right 0.7s;-moz-transition:right 0.7s;-webkit-transition:right 0.7s;-o-transition:right 0.7s;overflow: hidden;}
+.LoginMinBox a{cursor:pointer;}
+.BGZZ{position: fixed;width: 100%;height: 100%;z-index: 9999999999999;background-color: rgba(0,0,0,0.6);top: 0px;left: 0px;}
+.RegAndLogin{position: absolute;width: 300px;background-color: rgba(255,255,255,0.9);left: 50%;top: 50%;margin: -131px 0 0 -150px;border-radius: 5px;-webkit-border-radius: 5px;-moz-border-radius: 5px;}
+.Reg{height: 262px;margin: -131px 0 0 -150px;}
+.Login{height: 178px;margin: -89px 0 0 -150px;}
+.Pass{height: 178px;margin: -89px 0 0 -150px;}
+.UserInfo{height: 260px;margin: -130px 0 0 -295px;width:590px;overflow:hidden;}
+.Collection{height: 600px;width:600px;margin: -300px 0 0 -300px;}
+.InputText{background-color: #fff;margin-top: 4%;width: 100%;font-size: 1em;color: #000;min-height: 20px;padding: 5.5px 0 5.5px 15px;cursor: text;border: 0;}
+.Title{padding: 5px 5px 4px 5px;text-align: center;background-color: rgba(0, 0, 0, 0.47);color: #fff;cursor:default;}
+.Button{height: 20px;width: 49px;display: block;padding: 8px 0 8px 19px;background-color: #FFAF02;float: right;margin: 18px 21px 15px 0;cursor:pointer;}
+.NoUser{color: #000;font-size: 12px;position: absolute;bottom: 9px;right: 95px;cursor:pointer;}
+.CollList{padding: 5px;height: 95px;border-bottom: thick dotted #FFFFFF;position:relative;}
+.CollList a{text-decoration:none;}
+.CollImg{height: 95px;float: left;width:100%;}
+.CollTitle{float: left;margin: 4px 0 0 10px;color: #000;width: 405px;}
+.CollSub{display: block;font-size: 12px;color: #B6B6B6;height: 35px;overflow: hidden;}
+.CollTitleT{display: block;height: 25px;overflow: hidden;}
+.CollUp{display: block;font-size: 12px;color: #8A8A8A;}
+.CollTime{display: block;font-size: 12px;color: #8A8A8A;}
+.CollectionList{padding-top: 5px;overflow: auto;height: 93%;}
+.HideOrShowL{float: left;margin: -10px 25px 0px -30px;background-color: rgba(255,255,255,0.3);height: 50px;padding: 10px 0px 0px 4px;width: 13px;cursor: pointer;}
+.UserInfoDiv{height: 70px;background-color: rgba(0,0,0,0.2);position: absolute;top: 80px;right: -1000px;transition: right 0.5s;-moz-transition: right 0.5s;-webkit-transition: right 0.5s;-o-transition: right 0.5s;}
+.MYTime{position: absolute;bottom: 0px;height: 3px;background-color: rgba(255, 255, 255, 0.5);width: 100%;transition:left 15s;-moz-transition:left 15s;-webkit-transition:left 15s;-o-transition:left 15s;}
+#hito { -webkit-user-select: text; user-select: text;-moz-user-select:text;}
